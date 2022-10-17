@@ -7,4 +7,12 @@
 
 系級：科技系二年級
 
-課程筆記區、作業連結區、專題連結區
+>課程筆記區
+
+
+>作業連結區
++ [作業一](https://www.youtube.com/watch?v=TV-MQ8EgHlI)
++ [作業二](https://youtu.be/pZL3aF1Iu70)
+
+>專題連結區
+
