@@ -11,8 +11,8 @@
 
 
 >作業連結區
-+ [Hw1](https://www.youtube.com/watch?v=TV-MQ8EgHlI)
-+ [HW2]()
++ [作業一](https://www.youtube.com/watch?v=TV-MQ8EgHlI)
++ [作業二]()
 
 >專題連結區
 
