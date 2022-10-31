@@ -11,7 +11,7 @@
 
 
 >作業連結區
-+ [作業一](https://www.youtube.com/watch?v=TV-MQ8EgHlI)
++ [作業一](https://youtu.be/TV-MQ8EgHlI)
 + [作業二](https://youtu.be/pZL3aF1Iu70)
 + [作業三](https://youtu.be/lu0vb8R0z3E)
 
